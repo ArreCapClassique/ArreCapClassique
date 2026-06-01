@@ -1,7 +1,7 @@
 # MIAGE (UT Capitole) | Data Engineer • Data Scientist • Data Analyst (Internship 2026)
 
 **Target roles:** Data Engineer • Data Scientist • Data Analyst  
-**Availability:** from **2026-04-07** (latest start **May 2026**) • **5–6 months**  
+**Availability:** from now on • **5–6 months**  
 **Location:** France-wide mobility • **Hybrid/Remote OK**
 
 ---
@@ -42,6 +42,9 @@ I like projects where data reliability meets decision-making:
 ---
 
 ## Experiences & projects
+- **Sentence-pair similarity baseline — public portfolio project (2026):**
+  end-to-end NLP regression baseline with synthetic labeled data, TF-IDF pair features, Ridge / Linear SVR comparison, MLflow tracking, immutable local model artifacts, FastAPI serving, Docker packaging, tests, type checking, linting, and GitHub Actions CI  
+  GitHub: https://github.com/ArreCapClassique/sentence-pair-similarity-baseline
 - **Research Assistant — IRIT (Toulouse) (05–08/2025):**
   log structuring → semantic retrieval → RAG-style workflow + evaluation/traceability
 - **Large-scale medical analytics (2025):**
